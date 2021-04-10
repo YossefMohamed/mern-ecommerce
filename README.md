@@ -1,4 +1,4 @@
-# MERN Ecommerce
+# MERN Ecommerce ⭐️
 
 ## Description
 
@@ -84,13 +84,11 @@ $ npm run start:production
 
 ## Languages & tools
 
-- [Node](https://nodejs.org/en/)
+- [Node](https://nodejs.org/en/) 🚀
 
-- [Express](https://expressjs.com/)
+- [Express](https://expressjs.com/)🍕
 
-- [Mongoose](https://mongoosejs.com/)
+- [Mongoose](https://mongoosejs.com/)☕️
 
-- [React](https://reactjs.org/)
-
-- [Webpack](https://webpack.js.org/)
+- [React](https://reactjs.org/) ❤️
 
